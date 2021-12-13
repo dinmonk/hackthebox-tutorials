@@ -22,11 +22,13 @@ I am going to talk about 2 tools that you will use when you start pentesting and
 
 
 
-####Nmap options image
+#### Nmap options image
 below is a image of   the  command   nmap –help
 
                     
 > nmap -help
+
+![](https://github.com/dinmonk/dinmonk/blob/main/nmap.jpg)
 
 This allows you to see what the function on nmap do
 ![](/examples/php/../uploads/nmap.jpg)
@@ -34,6 +36,8 @@ This allows you to see what the function on nmap do
 ![](/examples/php/../uploads/zenmap2.png)
 ### nmap scan
 ![](/examples/php/../uploads/nmapsame.png)
+
+
 
 ### Info about nmap/zenmap
 Nmap has a book that goes through what each of the functions does to help you learn your way around. Both Zenmap and Nmap are completely free.
