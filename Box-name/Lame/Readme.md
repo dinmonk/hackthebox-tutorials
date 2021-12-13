@@ -23,7 +23,7 @@ I am going to talk about 2 tools that you will use when you start pentesting and
 
 
 #### Nmap options image
-below is a image of   the  command   nmap –help
+Below is a image of   the  command   nmap –help
 
                     
 > nmap -help
